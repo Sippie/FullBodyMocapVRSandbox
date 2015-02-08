@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 2cd4c637edaa27f40a77d88049c62062
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ground
+    100002: group10
+    100004: group10 1
+    100006: group10 2
+    100008: group10 3
+    100010: group10 4
+    100012: group11
+    100014: group11 1
+    100016: group11 2
+    100018: group11 3
+    100020: group11 4
+    100022: group12
+    100024: group12 1
+    100026: group12 2
+    100028: group12 3
+    100030: group12 4
+    100032: group13
+    100034: group14
+    100036: group15
+    100038: group16
+    100040: group17
+    100042: group18
+    100044: group6
+    100046: group6 1
+    100048: group6 2
+    100050: group6 3
+    100052: group6 4
+    100054: group6 5
+    100056: group7
+    100058: group7 1
+    100060: group7 2
+    100062: group7 3
+    100064: group7 4
+    100066: group7 5
+    100068: group8
+    100070: group8 1
+    100072: group8 2
+    100074: group8 3
+    100076: group8 4
+    100078: group8 5
+    100080: group9
+    100082: group9 1
+    100084: group9 2
+    100086: group9 3
+    100088: group9 4
+    100090: //RootNode
+    100092: pCylinder1
+    100094: pCylinder1 1
+    100096: pCylinder1 10
+    100098: pCylinder1 11
+    100100: pCylinder1 12
+    100102: pCylinder1 13
+    100104: pCylinder1 14
+    100106: pCylinder1 15
+    100108: pCylinder1 16
+    100110: pCylinder1 17
+    100112: pCylinder1 18
+    100114: pCylinder1 19
+    100116: pCylinder1 2
+    100118: pCylinder1 20
+    100120: pCylinder1 21
+    100122: pCylinder1 22
+    100124: pCylinder1 23
+    100126: pCylinder1 24
+    100128: pCylinder1 25
+    100130: pCylinder1 26
+    100132: pCylinder1 27
+    100134: pCylinder1 28
+    100136: pCylinder1 29
+    100138: pCylinder1 3
+    100140: pCylinder1 30
+    100142: pCylinder1 31
+    100144: pCylinder1 32
+    100146: pCylinder1 33
+    100148: pCylinder1 34
+    100150: pCylinder1 35
+    100152: pCylinder1 36
+    100154: pCylinder1 37
+    100156: pCylinder1 4
+    100158: pCylinder1 5
+    100160: pCylinder1 6
+    100162: pCylinder1 7
+    100164: pCylinder1 8
+    100166: pCylinder1 9
+    100168: pCylinder2
+    100170: pCylinder2 1
+    100172: pCylinder2 10
+    100174: pCylinder2 11
+    100176: pCylinder2 12
+    100178: pCylinder2 13
+    100180: pCylinder2 14
+    100182: pCylinder2 15
+    100184: pCylinder2 16
+    100186: pCylinder2 17
+    100188: pCylinder2 18
+    100190: pCylinder2 19
+    100192: pCylinder2 2
+    100194: pCylinder2 20
+    100196: pCylinder2 21
+    100198: pCylinder2 22
+    100200: pCylinder2 23
+    100202: pCylinder2 24
+    100204: pCylinder2 25
+    100206: pCylinder2 26
+    100208: pCylinder2 27
+    100210: pCylinder2 28
+    100212: pCylinder2 29
+    100214: pCylinder2 3
+    100216: pCylinder2 30
+    100218: pCylinder2 31
+    100220: pCylinder2 32
+    100222: pCylinder2 33
+    100224: pCylinder2 34
+    100226: pCylinder2 35
+    100228: pCylinder2 36
+    100230: pCylinder2 37
+    100232: pCylinder2 4
+    100234: pCylinder2 5
+    100236: pCylinder2 6
+    100238: pCylinder2 7
+    100240: pCylinder2 8
+    100242: pCylinder2 9
+    100244: trees
+    400000: ground
+    400002: group10
+    400004: group10 1
+    400006: group10 2
+    400008: group10 3
+    400010: group10 4
+    400012: group11
+    400014: group11 1
+    400016: group11 2
+    400018: group11 3
+    400020: group11 4
+    400022: group12
+    400024: group12 1
+    400026: group12 2
+    400028: group12 3
+    400030: group12 4
+    400032: group13
+    400034: group14
+    400036: group15
+    400038: group16
+    400040: group17
+    400042: group18
+    400044: group6
+    400046: group6 1
+    400048: group6 2
+    400050: group6 3
+    400052: group6 4
+    400054: group6 5
+    400056: group7
+    400058: group7 1
+    400060: group7 2
+    400062: group7 3
+    400064: group7 4
+    400066: group7 5
+    400068: group8
+    400070: group8 1
+    400072: group8 2
+    400074: group8 3
+    400076: group8 4
+    400078: group8 5
+    400080: group9
+    400082: group9 1
+    400084: group9 2
+    400086: group9 3
+    400088: group9 4
+    400090: //RootNode
+    400092: pCylinder1
+    400094: pCylinder1 1
+    400096: pCylinder1 10
+    400098: pCylinder1 11
+    400100: pCylinder1 12
+    400102: pCylinder1 13
+    400104: pCylinder1 14
+    400106: pCylinder1 15
+    400108: pCylinder1 16
+    400110: pCylinder1 17
+    400112: pCylinder1 18
+    400114: pCylinder1 19
+    400116: pCylinder1 2
+    400118: pCylinder1 20
+    400120: pCylinder1 21
+    400122: pCylinder1 22
+    400124: pCylinder1 23
+    400126: pCylinder1 24
+    400128: pCylinder1 25
+    400130: pCylinder1 26
+    400132: pCylinder1 27
+    400134: pCylinder1 28
+    400136: pCylinder1 29
+    400138: pCylinder1 3
+    400140: pCylinder1 30
+    400142: pCylinder1 31
+    400144: pCylinder1 32
+    400146: pCylinder1 33
+    400148: pCylinder1 34
+    400150: pCylinder1 35
+    400152: pCylinder1 36
+    400154: pCylinder1 37
+    400156: pCylinder1 4
+    400158: pCylinder1 5
+    400160: pCylinder1 6
+    400162: pCylinder1 7
+    400164: pCylinder1 8
+    400166: pCylinder1 9
+    400168: pCylinder2
+    400170: pCylinder2 1
+    400172: pCylinder2 10
+    400174: pCylinder2 11
+    400176: pCylinder2 12
+    400178: pCylinder2 13
+    400180: pCylinder2 14
+    400182: pCylinder2 15
+    400184: pCylinder2 16
+    400186: pCylinder2 17
+    400188: pCylinder2 18
+    400190: pCylinder2 19
+    400192: pCylinder2 2
+    400194: pCylinder2 20
+    400196: pCylinder2 21
+    400198: pCylinder2 22
+    400200: pCylinder2 23
+    400202: pCylinder2 24
+    400204: pCylinder2 25
+    400206: pCylinder2 26
+    400208: pCylinder2 27
+    400210: pCylinder2 28
+    400212: pCylinder2 29
+    400214: pCylinder2 3
+    400216: pCylinder2 30
+    400218: pCylinder2 31
+    400220: pCylinder2 32
+    400222: pCylinder2 33
+    400224: pCylinder2 34
+    400226: pCylinder2 35
+    400228: pCylinder2 36
+    400230: pCylinder2 37
+    400232: pCylinder2 4
+    400234: pCylinder2 5
+    400236: pCylinder2 6
+    400238: pCylinder2 7
+    400240: pCylinder2 8
+    400242: pCylinder2 9
+    400244: trees
+    2300000: ground
+    2300002: pCylinder1
+    2300004: pCylinder1 1
+    2300006: pCylinder1 10
+    2300008: pCylinder1 11
+    2300010: pCylinder1 12
+    2300012: pCylinder1 13
+    2300014: pCylinder1 14
+    2300016: pCylinder1 15
+    2300018: pCylinder1 16
+    2300020: pCylinder1 17
+    2300022: pCylinder1 18
+    2300024: pCylinder1 19
+    2300026: pCylinder1 2
+    2300028: pCylinder1 20
+    2300030: pCylinder1 21
+    2300032: pCylinder1 22
+    2300034: pCylinder1 23
+    2300036: pCylinder1 24
+    2300038: pCylinder1 25
+    2300040: pCylinder1 26
+    2300042: pCylinder1 27
+    2300044: pCylinder1 28
+    2300046: pCylinder1 29
+    2300048: pCylinder1 3
+    2300050: pCylinder1 30
+    2300052: pCylinder1 31
+    2300054: pCylinder1 32
+    2300056: pCylinder1 33
+    2300058: pCylinder1 34
+    2300060: pCylinder1 35
+    2300062: pCylinder1 36
+    2300064: pCylinder1 37
+    2300066: pCylinder1 4
+    2300068: pCylinder1 5
+    2300070: pCylinder1 6
+    2300072: pCylinder1 7
+    2300074: pCylinder1 8
+    2300076: pCylinder1 9
+    2300078: pCylinder2
+    2300080: pCylinder2 1
+    2300082: pCylinder2 10
+    2300084: pCylinder2 11
+    2300086: pCylinder2 12
+    2300088: pCylinder2 13
+    2300090: pCylinder2 14
+    2300092: pCylinder2 15
+    2300094: pCylinder2 16
+    2300096: pCylinder2 17
+    2300098: pCylinder2 18
+    2300100: pCylinder2 19
+    2300102: pCylinder2 2
+    2300104: pCylinder2 20
+    2300106: pCylinder2 21
+    2300108: pCylinder2 22
+    2300110: pCylinder2 23
+    2300112: pCylinder2 24
+    2300114: pCylinder2 25
+    2300116: pCylinder2 26
+    2300118: pCylinder2 27
+    2300120: pCylinder2 28
+    2300122: pCylinder2 29
+    2300124: pCylinder2 3
+    2300126: pCylinder2 30
+    2300128: pCylinder2 31
+    2300130: pCylinder2 32
+    2300132: pCylinder2 33
+    2300134: pCylinder2 34
+    2300136: pCylinder2 35
+    2300138: pCylinder2 36
+    2300140: pCylinder2 37
+    2300142: pCylinder2 4
+    2300144: pCylinder2 5
+    2300146: pCylinder2 6
+    2300148: pCylinder2 7
+    2300150: pCylinder2 8
+    2300152: pCylinder2 9
+    3300000: ground
+    3300002: pCylinder1
+    3300004: pCylinder1 1
+    3300006: pCylinder1 10
+    3300008: pCylinder1 11
+    3300010: pCylinder1 12
+    3300012: pCylinder1 13
+    3300014: pCylinder1 14
+    3300016: pCylinder1 15
+    3300018: pCylinder1 16
+    3300020: pCylinder1 17
+    3300022: pCylinder1 18
+    3300024: pCylinder1 19
+    3300026: pCylinder1 2
+    3300028: pCylinder1 20
+    3300030: pCylinder1 21
+    3300032: pCylinder1 22
+    3300034: pCylinder1 23
+    3300036: pCylinder1 24
+    3300038: pCylinder1 25
+    3300040: pCylinder1 26
+    3300042: pCylinder1 27
+    3300044: pCylinder1 28
+    3300046: pCylinder1 29
+    3300048: pCylinder1 3
+    3300050: pCylinder1 30
+    3300052: pCylinder1 31
+    3300054: pCylinder1 32
+    3300056: pCylinder1 33
+    3300058: pCylinder1 34
+    3300060: pCylinder1 35
+    3300062: pCylinder1 36
+    3300064: pCylinder1 37
+    3300066: pCylinder1 4
+    3300068: pCylinder1 5
+    3300070: pCylinder1 6
+    3300072: pCylinder1 7
+    3300074: pCylinder1 8
+    3300076: pCylinder1 9
+    3300078: pCylinder2
+    3300080: pCylinder2 1
+    3300082: pCylinder2 10
+    3300084: pCylinder2 11
+    3300086: pCylinder2 12
+    3300088: pCylinder2 13
+    3300090: pCylinder2 14
+    3300092: pCylinder2 15
+    3300094: pCylinder2 16
+    3300096: pCylinder2 17
+    3300098: pCylinder2 18
+    3300100: pCylinder2 19
+    3300102: pCylinder2 2
+    3300104: pCylinder2 20
+    3300106: pCylinder2 21
+    3300108: pCylinder2 22
+    3300110: pCylinder2 23
+    3300112: pCylinder2 24
+    3300114: pCylinder2 25
+    3300116: pCylinder2 26
+    3300118: pCylinder2 27
+    3300120: pCylinder2 28
+    3300122: pCylinder2 29
+    3300124: pCylinder2 3
+    3300126: pCylinder2 30
+    3300128: pCylinder2 31
+    3300130: pCylinder2 32
+    3300132: pCylinder2 33
+    3300134: pCylinder2 34
+    3300136: pCylinder2 35
+    3300138: pCylinder2 36
+    3300140: pCylinder2 37
+    3300142: pCylinder2 4
+    3300144: pCylinder2 5
+    3300146: pCylinder2 6
+    3300148: pCylinder2 7
+    3300150: pCylinder2 8
+    3300152: pCylinder2 9
+    4300000: ground
+    4300002: pCylinder1
+    4300004: pCylinder2
+    4300006: pCylinder1
+    4300008: pCylinder2
+    4300010: pCylinder1
+    4300012: pCylinder2
+    4300014: pCylinder1
+    4300016: pCylinder2
+    4300018: pCylinder1
+    4300020: pCylinder2
+    4300022: pCylinder1
+    4300024: pCylinder2
+    4300026: pCylinder1
+    4300028: pCylinder2
+    4300030: pCylinder1
+    4300032: pCylinder2
+    4300034: pCylinder1
+    4300036: pCylinder2
+    4300038: pCylinder1
+    4300040: pCylinder2
+    4300042: pCylinder1
+    4300044: pCylinder2
+    4300046: pCylinder1
+    4300048: pCylinder2
+    4300050: pCylinder1
+    4300052: pCylinder2
+    4300054: pCylinder1
+    4300056: pCylinder2
+    4300058: pCylinder1
+    4300060: pCylinder2
+    4300062: pCylinder1
+    4300064: pCylinder2
+    4300066: pCylinder1
+    4300068: pCylinder2
+    4300070: pCylinder1
+    4300072: pCylinder2
+    4300074: pCylinder1
+    4300076: pCylinder2
+    4300078: pCylinder1
+    4300080: pCylinder2
+    4300082: pCylinder1
+    4300084: pCylinder2
+    4300086: pCylinder1
+    4300088: pCylinder2
+    4300090: pCylinder1
+    4300092: pCylinder2
+    4300094: pCylinder1
+    4300096: pCylinder2
+    4300098: pCylinder1
+    4300100: pCylinder2
+    4300102: pCylinder1
+    4300104: pCylinder2
+    4300106: pCylinder1
+    4300108: pCylinder2
+    4300110: pCylinder1
+    4300112: pCylinder2
+    4300114: pCylinder1
+    4300116: pCylinder2
+    4300118: pCylinder1
+    4300120: pCylinder2
+    4300122: pCylinder1
+    4300124: pCylinder2
+    4300126: pCylinder1
+    4300128: pCylinder2
+    4300130: pCylinder1
+    4300132: pCylinder2
+    4300134: pCylinder1
+    4300136: pCylinder2
+    4300138: pCylinder1
+    4300140: pCylinder2
+    4300142: pCylinder1
+    4300144: pCylinder2
+    4300146: pCylinder1
+    4300148: pCylinder2
+    4300150: pCylinder1
+    4300152: pCylinder2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: New Avatar Mask
+  m_Mask: 00000000010000000000000000000000000000000000000001000000000000000100000000000000000000000000000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: polySurface14
+    m_Weight: 0
+  - m_Path: polySurface14/polySurface14_MeshPart0
+    m_Weight: 0
+  - m_Path: polySurface14/polySurface14_MeshPart1
+    m_Weight: 0
+  - m_Path: Robot_References
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_LeftUpLeg
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_LeftUpLeg/Robot_LeftLeg
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_LeftUpLeg/Robot_LeftLeg/Robot_LeftFoot
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_LeftUpLeg/Robot_LeftLeg/Robot_LeftFoot/Robot_LeftToeBase
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_RightUpLeg
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_RightUpLeg/Robot_RightLeg
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_RightUpLeg/Robot_RightLeg/Robot_RightFoot
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_RightUpLeg/Robot_RightLeg/Robot_RightFoot/Robot_RightToeBase
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftHandThumb1
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftHandThumb1/Robot_LeftHandThumb2
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftHandThumb1/Robot_LeftHandThumb2/Robot_LeftHandThumb3
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftHandThumb1/Robot_LeftHandThumb2/Robot_LeftHandThumb3/Robot_LeftHandThumb4
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandIndex
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandIndex/Robot_LeftHandIndex1
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandIndex/Robot_LeftHandIndex1/Robot_LeftHandIndex2
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandIndex/Robot_LeftHandIndex1/Robot_LeftHandIndex2/Robot_LeftHandIndex3
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandIndex/Robot_LeftHandIndex1/Robot_LeftHandIndex2/Robot_LeftHandIndex3/Robot_LeftHandIndex4
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandMiddle
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandMiddle/Robot_LeftHandMiddle1
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandMiddle/Robot_LeftHandMiddle1/Robot_LeftHandMiddle2
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandMiddle/Robot_LeftHandMiddle1/Robot_LeftHandMiddle2/Robot_LeftHandMiddle3
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandMiddle/Robot_LeftHandMiddle1/Robot_LeftHandMiddle2/Robot_LeftHandMiddle3/Robot_LeftHandMiddle4
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandPinky
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandPinky/Robot_LeftHandPinky1
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandPinky/Robot_LeftHandPinky1/Robot_LeftHandPinky2
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandPinky/Robot_LeftHandPinky1/Robot_LeftHandPinky2/Robot_LeftHandPinky3
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandPinky/Robot_LeftHandPinky1/Robot_LeftHandPinky2/Robot_LeftHandPinky3/Robot_LeftHandPinky4
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandRing
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandRing/Robot_LeftHandRing1
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandRing/Robot_LeftHandRing1/Robot_LeftHandRing2
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandRing/Robot_LeftHandRing1/Robot_LeftHandRing2/Robot_LeftHandRing3
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_LeftShoulder/Robot_LeftArm/Robot_LeftForeArm/Robot_LeftHand/Robot_LeftInHandRing/Robot_LeftHandRing1/Robot_LeftHandRing2/Robot_LeftHandRing3/Robot_LeftHandRing4
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_Neck
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_Neck/Robot_Head
+    m_Weight: 0
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightHandThumb1
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightHandThumb1/Robot_RightHandThumb2
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightHandThumb1/Robot_RightHandThumb2/Robot_RightHandThumb3
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightHandThumb1/Robot_RightHandThumb2/Robot_RightHandThumb3/Robot_RightHandThumb4
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandIndex
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandIndex/Robot_RightHandIndex1
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandIndex/Robot_RightHandIndex1/Robot_RightHandIndex2
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandIndex/Robot_RightHandIndex1/Robot_RightHandIndex2/Robot_RightHandIndex3
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandIndex/Robot_RightHandIndex1/Robot_RightHandIndex2/Robot_RightHandIndex3/Robot_RightHandIndex4
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandMiddle
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandMiddle/Robot_RightHandMiddle1
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandMiddle/Robot_RightHandMiddle1/Robot_RightHandMiddle2
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandMiddle/Robot_RightHandMiddle1/Robot_RightHandMiddle2/Robot_RightHandMiddle3
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandMiddle/Robot_RightHandMiddle1/Robot_RightHandMiddle2/Robot_RightHandMiddle3/Robot_RightHandMiddle4
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandPinky
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandPinky/Robot_RightHandPinky1
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandPinky/Robot_RightHandPinky1/Robot_RightHandPinky2
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandPinky/Robot_RightHandPinky1/Robot_RightHandPinky2/Robot_RightHandPinky3
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandPinky/Robot_RightHandPinky1/Robot_RightHandPinky2/Robot_RightHandPinky3/Robot_RightHandPinky4
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandRing
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandRing/Robot_RightHandRing1
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandRing/Robot_RightHandRing1/Robot_RightHandRing2
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandRing/Robot_RightHandRing1/Robot_RightHandRing2/Robot_RightHandRing3
+    m_Weight: 1
+  - m_Path: Robot_References/Robot_Reference/Robot_Hips/Robot_Spine/Robot_Spine1/Robot_Spine2/Robot_Spine3/Robot_RightShoulder/Robot_RightArm/Robot_RightForeArm/Robot_RightHand/Robot_RightInHandRing/Robot_RightHandRing1/Robot_RightHandRing2/Robot_RightHandRing3/Robot_RightHandRing4
+    m_Weight: 1
